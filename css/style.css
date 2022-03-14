@@ -194,6 +194,7 @@ a:hover {
     /*box-model*/
     border-radius: 80px;
     padding: 0 18px;
+    margin-bottom: 3em;
 }
 
 .btn-wrap:hover {
